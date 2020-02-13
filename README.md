@@ -1,1 +1,1 @@
- Llenguatge SQL
+ Exercici llenguatge SQL
